@@ -1,0 +1,6 @@
+.App {
+    font-family: var(--text-font);
+    background-color: var(--color-background);
+    color: var(--color-text-primary);
+    min-height: 100vh;
+}
