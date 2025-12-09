@@ -1,10 +1,12 @@
+import Explore from "../features/Explore/Explore"
 import MainLayout from "../layout/MainLayout/MainLayout"
 
 const Homepage = () => {
     return (
         <>
             <MainLayout>
-                <h1>Homepage</h1>
+                <Explore/>
+                
             </MainLayout>
         </>
     )
